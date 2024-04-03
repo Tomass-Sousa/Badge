@@ -1,4 +1,4 @@
-# I hate Discord so I made this
+Discord Bot Badge
 
 ### How to use
 - Create an application at the [Developer panel](https://discord.com/developers/applications/) (or you can use a previously existing one)
